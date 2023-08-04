@@ -1,0 +1,4 @@
+.catalog-container {
+  grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
+  display: grid;
+}
